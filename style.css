@@ -10,6 +10,13 @@ header{
 nav{
   margin: 32px auto;
 }
+h1{
+  display: inline-block;
+  margin: 0;
+}
+h1:hover{
+  color: aquamarine;
+}
 
 div.header1{
   color: white;
